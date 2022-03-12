@@ -1,0 +1,16 @@
+F:\DongBoDulieu\VTC-Academy\VTC-academy\9. Object-Oriented Programming\Example\bin\Debug\net5.0\Example.exe
+F:\DongBoDulieu\VTC-Academy\VTC-academy\9. Object-Oriented Programming\Example\bin\Debug\net5.0\Example.deps.json
+F:\DongBoDulieu\VTC-Academy\VTC-academy\9. Object-Oriented Programming\Example\bin\Debug\net5.0\Example.runtimeconfig.json
+F:\DongBoDulieu\VTC-Academy\VTC-academy\9. Object-Oriented Programming\Example\bin\Debug\net5.0\Example.runtimeconfig.dev.json
+F:\DongBoDulieu\VTC-Academy\VTC-academy\9. Object-Oriented Programming\Example\bin\Debug\net5.0\Example.dll
+F:\DongBoDulieu\VTC-Academy\VTC-academy\9. Object-Oriented Programming\Example\bin\Debug\net5.0\ref\Example.dll
+F:\DongBoDulieu\VTC-Academy\VTC-academy\9. Object-Oriented Programming\Example\bin\Debug\net5.0\Example.pdb
+F:\DongBoDulieu\VTC-Academy\VTC-academy\9. Object-Oriented Programming\Example\obj\Debug\net5.0\Example.csproj.AssemblyReference.cache
+F:\DongBoDulieu\VTC-Academy\VTC-academy\9. Object-Oriented Programming\Example\obj\Debug\net5.0\Example.GeneratedMSBuildEditorConfig.editorconfig
+F:\DongBoDulieu\VTC-Academy\VTC-academy\9. Object-Oriented Programming\Example\obj\Debug\net5.0\Example.AssemblyInfoInputs.cache
+F:\DongBoDulieu\VTC-Academy\VTC-academy\9. Object-Oriented Programming\Example\obj\Debug\net5.0\Example.AssemblyInfo.cs
+F:\DongBoDulieu\VTC-Academy\VTC-academy\9. Object-Oriented Programming\Example\obj\Debug\net5.0\Example.csproj.CoreCompileInputs.cache
+F:\DongBoDulieu\VTC-Academy\VTC-academy\9. Object-Oriented Programming\Example\obj\Debug\net5.0\Example.dll
+F:\DongBoDulieu\VTC-Academy\VTC-academy\9. Object-Oriented Programming\Example\obj\Debug\net5.0\ref\Example.dll
+F:\DongBoDulieu\VTC-Academy\VTC-academy\9. Object-Oriented Programming\Example\obj\Debug\net5.0\Example.pdb
+F:\DongBoDulieu\VTC-Academy\VTC-academy\9. Object-Oriented Programming\Example\obj\Debug\net5.0\Example.genruntimeconfig.cache
